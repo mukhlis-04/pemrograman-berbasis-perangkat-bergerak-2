@@ -1,0 +1,7 @@
+{
+  "name": "Cuaca di jakarta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
